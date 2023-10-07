@@ -1,5 +1,21 @@
 # Mein Portfolio
 
+<p align="center">
+  <br>
+  <a href="https://github.com/XSaitoKungX"><img src="images/Killua.png" height="500" alt="Splay Discord Bot"></a>
+  <br>
+  A portfolio, developed with ❤ by <a href="https://github.com/XSaitoKungX">XSaitoKungX</a>
+  <br>
+</p>
+
+<center>
+
+[![Discord Server](https://img.shields.io/discord/857622993702486067?color=blue&label=Discord%20Server&logo=discord&style=flat-square)](https://discord.gg/j4YwfmEtbx)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=flat-square&logo=github)](https://github.com/XSaitoKungX)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/191dc7a5-1052-42ab-86c3-b7a065eb4ae2/deploy-status)](https://app.netlify.com/sites/imkirit/deploys)
+
+</center>
+
 Willkommen in meinem Portfolio! Hier sind die Schritte, die du befolgen kannst, um dieses Portfolio für deine eigenen Zwecke anzupassen.
 
 ## Inhaltsverzeichnis
